@@ -1,5 +1,7 @@
-# Implementation-of-Auto-correct-and-Minimum-Edit-Distance
 
+# Implementation-of-Auto-correct-and-Minimum-Edit-Distance
+## NAME: Mithun M S
+## REGNO:212222240067
 ## AIM:
 To implement an Auto-Correct System in Python using the Minimum Edit Distance algorithm and word frequency analysis from the NLTK corpus.
 
